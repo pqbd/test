@@ -1,4 +1,1 @@
-test
-====
-
-test repository
+this is a test GIT repository on GITHUB.
